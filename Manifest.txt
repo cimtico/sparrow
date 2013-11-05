@@ -1,0 +1,12 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/sparrow
+lib/sparrow.rb
+lib/sparrow/queue.rb
+lib/sparrow/queues/memory.rb
+lib/sparrow/queues/sqlite.rb
+lib/sparrow/runner.rb
+lib/sparrow/server.rb
+lib/sparrow/utils.rb
