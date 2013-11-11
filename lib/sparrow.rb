@@ -46,7 +46,6 @@ module Sparrow
 end
 
 require 'sparrow/server'
-require 'sparrow/queues/sqlite' rescue LoadError nil
 require 'sparrow/queues/memory'
 require 'sparrow/queue'
 require 'sparrow/runner'
